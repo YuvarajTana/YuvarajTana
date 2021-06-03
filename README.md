@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am' Yuvaraj and I build user interfaces and solve real world problems with programming
+I am Yuvaraj and I build user interfaces and solve real world problems with programming
 
 <!--
 **YuvarajTana/YuvarajTana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
