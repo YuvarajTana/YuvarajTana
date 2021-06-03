@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Yuvaraj and I build user interfaces and solve real world problems with programming
+Hi, I'm Yuvaraj [Yuvaraj Tana](https://yuvarajtana.com), a passionate full stack developer from Bangalore, India. My passion for solving real world problems with programming. 
 
 <!--
 **YuvarajTana/YuvarajTana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
