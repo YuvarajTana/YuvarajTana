@@ -1,6 +1,5 @@
-### Hi there 👋
-
-Hi, I'm [Yuvaraj Tana](https://yuvarajtana.com), a passionate full stack developer from Bangalore, India. My passion for solving real world problems with programming. 
+### Hi there 👋, 
+I'm [Yuvaraj Tana](https://yuvarajtana.com), a passionate full stack developer from Bangalore, India. My passion for solving real world problems with programming. 
 
 <!--
 **YuvarajTana/YuvarajTana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
